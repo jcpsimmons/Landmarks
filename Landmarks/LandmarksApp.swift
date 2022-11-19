@@ -15,3 +15,9 @@ struct LandmarksApp: App {
         }
     }
 }
+
+struct Previews_LandmarksApp_Previews: PreviewProvider {
+    static var previews: some View {
+       
+    }
+}
